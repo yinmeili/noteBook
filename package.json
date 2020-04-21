@@ -6,7 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinmeili/noteBook.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinmeili/noteBook/issues"
+  },
+  "homepage": "https://github.com/yinmeili/noteBook#readme"
 }
+
